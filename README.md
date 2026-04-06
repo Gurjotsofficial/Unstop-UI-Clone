@@ -7,10 +7,15 @@ This project focuses on recreating the visual layout and user interface of the U
 🚀 Features
 
 Clean and responsive UI inspired by the Unstop platform
+
 Navigation bar and structured layout
+
 Opportunity cards similar to the original platform
+
 Scrollable content sections
+
 Built using reusable Flutter widgets
+
 🛠️ Tech Stack
 Flutter – Cross-platform UI development framework
 Dart – Programming language used by Flutter
