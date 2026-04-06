@@ -17,7 +17,9 @@ Scrollable content sections
 Built using reusable Flutter widgets
 
 🛠️ Tech Stack
+
 Flutter – Cross-platform UI development framework
+
 Dart – Programming language used by Flutter
 
 📱 App Screens
