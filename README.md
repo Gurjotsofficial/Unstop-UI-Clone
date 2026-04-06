@@ -5,6 +5,7 @@ A UI clone of the popular student opportunity platform Unstop built using Flutte
 This project focuses on recreating the visual layout and user interface of the Unstop homepage using Flutter widgets. The goal of this project was to practice mobile UI development, layout structuring, and responsive design in Flutter.
 
 🚀 Features
+
 Clean and responsive UI inspired by the Unstop platform
 Navigation bar and structured layout
 Opportunity cards similar to the original platform
