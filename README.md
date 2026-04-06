@@ -25,8 +25,11 @@ Dart – Programming language used by Flutter
 The app includes UI components such as:
 
 Home Screen displaying opportunities
+
 Opportunity Cards showing event details
+
 Navigation UI elements similar to the original platform
+
 Scrollable content layout
 
 💡 Learning Outcomes
